@@ -1,2 +1,2 @@
 # Tower-Game
-Quick tower game where you stack up pieces
+Tower game where you need to remove and add peices until they all line up
