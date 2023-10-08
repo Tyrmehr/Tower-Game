@@ -1,7 +1,5 @@
 /*
- * Rajan Mehrpanah
  * Tower Of Krane
- * January 20 2021
  */
 package towerOfKrane;
 
