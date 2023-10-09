@@ -155,14 +155,7 @@ public class towerGame {
 			}
 			
 			
-			/*
-			 *  The following methods are to be implemented by you. 
-			 * 
-			 * 
-			 * 
-			 * 
-			 * 
-			 */
+			
 			
 			
 			// Returns a 1D array with its contents shuffled in a random order
