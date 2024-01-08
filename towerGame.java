@@ -24,8 +24,7 @@ public class towerGame {
 	static int count =0;
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// TODO Auto-generated method stub
+		
 		
 		
 				//Initialize the pieces into an array
